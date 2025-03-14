@@ -1,0 +1,50 @@
+{
+    "menu": {
+      "community_updates": "Community Updates",
+      "upcoming_events": "Upcoming Events",
+      "document_requests": "Document Requests",
+      "health_assistance": "Health Assistance",
+      "report_issue": "Report an Issue",
+      "fill_forms": "Fill out Forms"
+    },
+    "content_panel": {
+      "delete": "Delete",
+      "edit": "Edit",
+      "events": {
+        "title": "Title",
+        "description": "Description",
+        "location": "Location",
+        "time": "Time",
+        "no_events": "No Events",
+        "instruction": "Please select a date with event"
+      },
+      "document_requests": {
+        "create_request": "Create Request",
+        "manage_my_requests": "Manage My Requests",
+        "choose_document_type": "Choose Document Type",
+        "description": "Description",
+        "additional_info": "Additional Info",
+        "reason": "Reason",
+        "proceed": "Proceed"
+      },
+      "health_support": {
+        "manage_my_requests": "Manage My Requests",
+        "request_assistance": "Request Health Assistance",
+        "select_type": "Select Health Assistance Support Type",
+        "support_type": "Support Type",
+        "additional_info": "Additional Info",
+        "description": "Description",
+        "proceed": "Proceed"
+      }, 
+      "incident": {
+        "manage_my_incidents": "Manage my Incidents",
+        "create_incident": "Create Incident",
+        "report_incident": "Report Incident",
+        "description": "Briefly Describe the Incident",
+        "location": "Where did the incident occur?",
+        "photo": "Provide a photo related to the Incident",
+        "proceed": "Proceed"
+      }
+    }
+  }
+  

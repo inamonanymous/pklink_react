@@ -1,0 +1,50 @@
+{
+    "menu": {
+      "community_updates": "Mga Balita sa Komunidad",
+      "upcoming_events": "Paparating na Mga Kaganapan",
+      "document_requests": "Mga Kahilingan sa Dokumento",
+      "health_assistance": "Mang-hingi nang tulong Pangkalusugan",
+      "report_issue": "I-ulat ang Isang Problema",
+      "fill_forms": "Magpunan ng Mga Form"
+    },
+    "content_panel": {
+      "delete": "Burahin",
+      "edit": "Baguhin",
+      "events": {
+        "title": "Pamagat",
+        "description": "Paglalarawan",
+        "location": "Lokasyon",
+        "time": "Oras",
+        "no_events": "Walang Kaganapan",
+        "instruction": "Pumili ng petsa kung saan may kaganapan"
+      },
+      "document_requests": {
+        "create_request": "Humiling ng isang Dokumento",
+        "manage_my_requests": "Ayusin ang Aking mga Kahilingan",
+        "choose_document_type": "Piliin ang Uri ng Dokumento",
+        "description": "Paglalarawan",
+        "additional_info": "Karagdagang Impormasyon",
+        "reason": "Dahilan",
+        "proceed": "Magpatuloy"
+      },
+      "health_support": {
+        "manage_my_requests": "Ayusin ang Aking mga Kahilingan",
+        "request_assistance": "Humiling ng Tulong Pangkalusugan",
+        "select_type": "Piliin ang Uri ng Suporta sa Tulong Pangkalusugan",
+        "support_type": "Uri ng Suporta",
+        "additional_info": "Karagdagang Impormasyon",
+        "description": "Paglalarawan",
+        "proceed": "Magpatuloy"
+      },
+      "incident": {
+        "manage_my_incidents": "Ayusin ang Aking mga nai-ulat na Insidente",
+        "create_incident": "Mag-ulat ng isang Insidente",
+        "report_incident": "Iulat ang Insidente",
+        "description": "Maikling Ilarawan ang Insidente",
+        "location": "Saan naganap ang insidente?",
+        "photo": "Magbigay ng larawan na may kaugnayan sa insidente",
+        "proceed": "Magpatuloy"
+      }
+    }
+  }
+  
